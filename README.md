@@ -4,4 +4,4 @@
 
 Projeto desenvolvido para as disciplinas de 'Projeto de Análise', 'Projeto de Programação' e 'Tópicos Especiais de Análise e Desenvolvimento'.
 
-Projeto de Conclusão de curso (Análise e Desenvolvimento de Sistemas) com @karinykeny.
+Projeto de conclusão de curso (Análise e Desenvolvimento de Sistemas) com Kariny Keny (https://github.com/karinykeny).
